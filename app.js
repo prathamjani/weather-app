@@ -1,4 +1,3 @@
-// Tutorial by http://youtube.com/CodeExplained
 // api key : acde125302b6e4b6988e84d109b2a33d
 
 
